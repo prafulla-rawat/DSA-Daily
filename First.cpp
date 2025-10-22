@@ -8,7 +8,7 @@ int main()
     cout << "Please enter your Name";
     string name;
     cin << name;
-    cout << "Thank you " << name << endl;
+    cout << "Thank You" << name << endl;
 
     return 0;
 }
